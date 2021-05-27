@@ -1,0 +1,9 @@
+.photo-grid__item {
+    width: 100%;
+    box-sizing: border-box;
+    object-fit: cover;
+}
+
+.photo-grid__item:last-child {
+    margin-bottom: 64px;
+}

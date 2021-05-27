@@ -1,0 +1,7 @@
+.nav {
+    display: grid;
+    row-gap: 32px;
+    padding: 0;
+    margin: 0 0 48px;
+    list-style: none;
+}

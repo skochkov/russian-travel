@@ -1,0 +1,13 @@
+.header__langs {
+    display: flex;
+    justify-content: space-between;
+    width: 62px;
+    padding-bottom: 8px;
+}
+
+@media screen and (min-width: 768px) {
+    .header__langs {
+        width: 77px;
+        padding-bottom: 5px;
+    }
+}
