@@ -29,6 +29,7 @@
 
 .cover:hover::before {
     opacity: 0.8;
+    transition: 0.5s;
 }
 
 @media screen and (min-width: 768px) {
