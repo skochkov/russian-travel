@@ -5,4 +5,11 @@
     align-items: flex-start;
     height: 46px;
     margin: 0 16px 32px;
+    align-self: flex-end;
+}
+
+@media screen and (min-width: 768px) {
+    .place__website {
+        margin: 0;
+    }
 }
